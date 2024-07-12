@@ -20,3 +20,37 @@ nav {
 .navbar-nav li:hover > ul.dropdown-menu {
   display: block;
 }
+
+/* Hero */
+.hero {
+  margin-top: 5rem;
+}
+
+.hero h2 {
+  color: #e5a324;
+  font-size: 60px;
+}
+
+.hero p {
+  color: #54595f;
+}
+
+.hero-content {
+  color: #7a7a7a;
+}
+
+.hero div .btn-primary {
+  background-color: #2f3c4c;
+  border: none;
+  border-radius: 30px;
+}
+
+.hero .hero-gallery {
+  position: relative;
+}
+
+.hero .hero-gallery .hero-image-2 {
+  position: absolute;
+  right: 5rem;
+  top: 7rem;
+}
