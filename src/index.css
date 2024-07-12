@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 nav {
   background-color: #f58220;
 }
@@ -53,4 +57,14 @@ nav {
   position: absolute;
   right: 5rem;
   top: 7rem;
+}
+
+/* Final Section */
+
+.final {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 200px;
+  height: 200px;
 }
