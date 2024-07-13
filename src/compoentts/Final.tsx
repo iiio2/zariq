@@ -1,6 +1,6 @@
 const Final = () => {
   return (
-    <div className="container final bg-danger">
+    <div className="container final">
       <h5 className="text-white text-center fw-bold mt-5">
         Final Exam 2023-2024
       </h5>
