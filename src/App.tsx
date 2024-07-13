@@ -1,4 +1,5 @@
 import './App.css'
+import About from './compoentts/About'
 import BaseLine from './compoentts/Baseline'
 import Final from './compoentts/Final'
 import Footer from './compoentts/Footer'
@@ -10,6 +11,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
+      <About />
       <Final />
       <Footer />
       <BaseLine />

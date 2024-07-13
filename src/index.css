@@ -2,6 +2,11 @@ body {
   position: relative;
 }
 
+.title {
+  color: #f58220;
+  font-size: 60px;
+}
+
 nav {
   background-color: #f58220;
 }
@@ -82,4 +87,10 @@ nav {
 /* Baseline */
 .baseline {
   background-color: #4a2a7e;
+}
+
+/* About us */
+
+.about-us {
+  margin-top: 5rem;
 }
