@@ -69,3 +69,12 @@ nav {
   height: 200px;
   background-color: #4a2a7e;
 }
+
+/* Footer */
+
+.footer {
+  background-color: #f58220;
+  text-align: center;
+  color: #fff;
+  font-weight: bolder;
+}
