@@ -223,13 +223,6 @@ const Navbar = () => {
             <ul className="navbar-nav ml-auto">
               <li className="nav-item active">
                 <a className="nav-link text-white fw-bold" href="#">
-                  Request for a Tour
-                </a>
-              </li>
-            </ul>
-            <ul className="navbar-nav ml-auto">
-              <li className="nav-item active">
-                <a className="nav-link text-white fw-bold" href="#">
                   Login
                 </a>
               </li>

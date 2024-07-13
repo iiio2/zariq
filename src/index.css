@@ -32,7 +32,8 @@ nav {
 
 /* Hero */
 .hero {
-  margin-top: 5rem;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
 }
 
 .hero h2 {
@@ -56,6 +57,12 @@ nav {
 
 .hero .hero-gallery {
   position: relative;
+}
+
+@media (max-width: 768px) {
+  .hero-gallery {
+    margin: 2rem 0;
+  }
 }
 
 .hero .hero-gallery .hero-image-2 {

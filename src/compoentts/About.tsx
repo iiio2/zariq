@@ -3,14 +3,14 @@ const AboutUs = () => {
     <div className="about-us">
       <div className="container">
         <div className="row">
-          <div className="about-us-image col-sm-6">
+          <div className="about-us-image col-sm-6 col-12">
             <img
               src="https://www.reverie.school/wp-content/uploads/2024/02/Reverie-School-Students.jpg"
               alt="about-us"
               className="img-fluid"
             />
           </div>
-          <div className="about-us-content col-sm-6 d-flex align-items-center">
+          <div className="about-us-content col-sm-6 col-12 d-flex align-items-center">
             <div>
               <h3 className="title">
                 Reverie School is admitting students from Playgroup to Grade 7

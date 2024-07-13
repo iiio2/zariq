@@ -1,8 +1,8 @@
 const Principal = () => {
   return (
-    <section className="principal container">
+    <section className="principal container my-5">
       <div className="row">
-        <div className="col-sm-4 d-flex align-items-center">
+        <div className="col-sm-4 col-12 d-flex align-items-center">
           <img
             src="https://www.reverie.school/wp-content/uploads/2023/12/Pricipals-message.jpg"
             alt="principal"
@@ -10,7 +10,7 @@ const Principal = () => {
           />
         </div>
 
-        <div className="col-sm-8">
+        <div className="col-12 col-sm-8">
           <h3 className="title">Principal’s Message</h3>
           <p className="lead">Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh</p>
           <p className="lead">
