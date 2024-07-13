@@ -5,6 +5,7 @@ import Final from './compoentts/Final'
 import Footer from './compoentts/Footer'
 import Hero from './compoentts/hero'
 import Navbar from './compoentts/Navbar'
+import Principal from './compoentts/Principal'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Principal />
       <Final />
       <Footer />
       <BaseLine />
